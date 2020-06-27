@@ -1,0 +1,61 @@
+{
+  "version": "0.1",
+  "operation_list":
+  [
+    {
+      "type": "vd1_maze_component_clone",
+      "old_name": "vd2CaveBase",
+      "new_name": "vd2CaveMineBase"
+    },
+    {
+      "type": "vd1_maze_component_zero_weights",
+      "maze_name": "vd2CaveMineBase"
+    },
+    {
+      "type": "vd1_maze_component_clone",
+      "old_name": "vd2CaveBase",
+      "new_name": "vd2CaveOrganicBase"
+    },
+    {
+      "type": "vd1_maze_component_zero_weights",
+      "maze_name": "vd2CaveOrganicBase"
+    },
+    {
+      "type": "vd1_maze_component_clone",
+      "old_name": "vd2CaveBase",
+      "new_name": "vd2CaveWaterBase"
+    },
+    {
+      "type": "vd1_maze_component_zero_weights",
+      "maze_name": "vd2CaveWaterBase"
+    },
+    {
+      "type": "vd1_maze_component_clone",
+      "old_name": "vd2CaveBase",
+      "new_name": "vd2CaveMagmaBase"
+    },
+    {
+      "type": "vd1_maze_component_zero_weights",
+      "maze_name": "vd2CaveMagmaBase"
+    },
+    {
+      "type": "vd1_maze_component_clone",
+      "old_name": "vd2CaveBase",
+      "new_name": "vd2CaveIceBase"
+    },
+    {
+      "type": "vd1_maze_component_zero_weights",
+      "maze_name": "vd2CaveIceBase"
+    },
+    {
+      "type": "vd1_maze_component_clone",
+      "old_name": "vd2CaveBase",
+      "new_name": "vd2CaveSpikeBase"
+    },
+    {
+      "type": "vd1_maze_component_zero_weights",
+      "maze_name": "vd2CaveSpikeBase"
+    }
+  ]
+}
+

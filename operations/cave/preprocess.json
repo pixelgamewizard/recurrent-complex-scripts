@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "operation_list":
+  [
+    {
+      "type": "vd1_round_numbers"
+    },
+    {
+      "type": "vd1_maze_component_rename",
+      "old_name": "vd2CaveNormal",
+      "new_name": "vd2CaveBase"
+    }
+  ]
+}
+
